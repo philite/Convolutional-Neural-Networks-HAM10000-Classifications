@@ -2,7 +2,7 @@
 
 NOTE: messy, unstructured notebooks
 
-NOTE2: This git is also uploaded at [Naiiytom's Seminar CNN git](https://github.com/naiiytom/seminar_cnn)
+NOTE2: These notebooks are also uploaded at [Naiiytom's Seminar CNN git](https://github.com/naiiytom/seminar_cnn)
 
 Python notebooks for CNN classifiers in Tensorflow for melanoma and non-melanoma classification.
 
